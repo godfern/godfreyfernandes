@@ -1,0 +1,22 @@
+{
+  "name": "godfreyfernandes",
+  "version": "1.0.0",
+  "description": "My biography",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godfern/godfreyfernandes.git"
+  },
+  "author": "Godfrey Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godfern/godfreyfernandes/issues"
+  },
+  "homepage": "https://github.com/godfern/godfreyfernandes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
